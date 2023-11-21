@@ -18,12 +18,6 @@ Scripts: Includes SQL scripts used for data extraction and transformation.
 Reports: Contains Power BI report files.
 Documentation: Includes project documentation, data dictionary, and analysis methodology.
 
-[](https://app.powerbi.com/groups/me/reports/48e33393-2f99-4efa-99e3-e19ecf5717ce?ctid=00615b0b-1757-4777-8ff7-0df6513fce55&pbi_source=linkShare
-)
-
-![Image](https://github.com/users/olulekeomotoba/projects/1/assets/149272576/22d7e1c6-fa63-490a-9b7f-b0ee41cebace)
-
-
 Usage:
 Clone the repository.
 Open the Power BI report file in Power BI Desktop.
@@ -36,3 +30,8 @@ Incorporating additional metrics and KPIs for a more comprehensive view of sales
 Contributors:
 [Oluleke Omotoba] - Data Analyst
 [Olujuwon Omotoba] - Database Administrator
+
+[](https://app.powerbi.com/groups/me/reports/48e33393-2f99-4efa-99e3-e19ecf5717ce?ctid=00615b0b-1757-4777-8ff7-0df6513fce55&pbi_source=linkShare
+)
+![Screenshot (72)](https://github.com/olulekeomotoba/Project-1/assets/149272576/cd9dac3f-c0d2-4301-93dd-57bfb249cb05)
+
