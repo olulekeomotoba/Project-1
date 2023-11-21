@@ -29,6 +29,7 @@ Incorporating additional metrics and KPIs for a more comprehensive view of sales
 
 Contributors:
 [Oluleke Omotoba] - Data Analyst
+
 [Olujuwon Omotoba] - Database Administrator
 
 [](https://app.powerbi.com/groups/me/reports/48e33393-2f99-4efa-99e3-e19ecf5717ce?ctid=00615b0b-1757-4777-8ff7-0df6513fce55&pbi_source=linkShare
