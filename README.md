@@ -2,7 +2,6 @@
 **TITLE;**  <br>
 Regional Beverage Sales Analysis of Northwind Traders
 
-
 Overview: This repository contains a comprehensive sales analysis project developed using Power BI. The project aimed to analyze sales data from multiple sources and present insights through intuitive visualizations and interactive dashboards.
 Features:
 Data Collection: Aggregated sales data from various departments and regions.
