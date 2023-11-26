@@ -15,7 +15,7 @@ Aggregated sales data was extracted from the company's SQL server.
 The column distribution, column profile and column quality was elucidated from the view ribbon of the power query editor. This was done to ascertain and check for the possibility of errors, null values, empty spaces, data uniqueness and distinctiveness, outliers, and inconsistencies.
 
 **DATA TRANSFORMATION**  <br>
-Transformation was done on the already cleansed data. The data had a lot of issues and required thorough cleansing, formatting, styling and re-organisation. This was done with a very high level of professionalism in order to maintain the integrity and originality of the data. The Transformed Data was then saved and made ready for the data modelling
+Transformation was done on the already cleansed data. The data had a lot of issues and required thorough cleansing, formatting, styling and re-organisation. This was done with a very high level of professionalism in order to maintain the integrity and originality of the data. The Transformed Data was then saved and made ready for the data modelling.
 
 **DATA MODELING:**  <br> 
 Designed a robust data model, incorporating various tables, relationships, and calculated columns for analysis. Power BI's data modeling capabilities were used to create relationships between different datasets. Data hierachy and date table creation using DAX was done,enabling a holistic view of the organization's performance.
